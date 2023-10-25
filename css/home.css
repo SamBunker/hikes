@@ -1,16 +1,14 @@
 
-
 footer {
-    background-color: #93B1A7;
+    background-color: #FFC857;
     color: #393E41;
-    padding: 20px;
+    padding: 15px;
     text-align: center;
 }
 
 
-.contact-info {
-    font-size: 18px;
-}
+
+
 
 
 .contact-info a {
@@ -19,8 +17,19 @@ footer {
 }
 
 
+
+
 @media (max-width: 768px) {
     .contact-info {
         font-size: 16px;
     }
+
+
+
+body{
+    background-color: #93B1A7;
+    margin : 0; 
+
+
+
 }
