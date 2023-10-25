@@ -1,3 +1,4 @@
+
 footer {
     background-color: #FFC857;
     color: #393E41;
@@ -5,26 +6,30 @@ footer {
     text-align: center;
 }
 
-/* Contact Information Styles */
-.contact-info {
-    font-size: 18px;
-}
 
-/* Links Styles */
+
+
+
+
 .contact-info a {
     color: #393E41;
     text-decoration: none;
 }
 
-/* Media Queries for Responsiveness */
+
+
+
 @media (max-width: 768px) {
     .contact-info {
         font-size: 16px;
     }
-}
+
+
 
 body{
     background-color: #93B1A7;
     margin : 0; 
+
+
 
 }
