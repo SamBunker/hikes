@@ -1,0 +1,26 @@
+
+
+footer {
+    background-color: #93B1A7;
+    color: #393E41;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.contact-info {
+    font-size: 18px;
+}
+
+
+.contact-info a {
+    color: #393E41;
+    text-decoration: none;
+}
+
+
+@media (max-width: 768px) {
+    .contact-info {
+        font-size: 16px;
+    }
+}
