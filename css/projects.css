@@ -1,0 +1,25 @@
+.carousel-container{
+    display: flex;
+  align-items: center;
+}
+
+.carousel{
+    width:40%; 
+    float : left; 
+}
+
+
+.text{
+    flex: 1; /* Allow the text to fill the available space */
+  padding: 10px; 
+}
+
+.carousel-container{
+    display: flex;
+  align-items: center;
+}
+
+h1{
+    padding-top:20px ; 
+}
+
