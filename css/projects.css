@@ -1,0 +1,56 @@
+<<<<<<< Updated upstream
+=======
+.carousel-container{
+    display: flex;
+  align-items: center;
+}
+
+.carousel{
+    width:40%; 
+    float : left; 
+}
+
+
+.text{
+    flex: 1; /* Allow the text to fill the available space */
+  padding: 10px; 
+}
+
+.carousel-container{
+    display: flex;
+  align-items: center;
+}
+
+h1{
+    padding-top:20px ; 
+}
+
+/*background of the header*/
+header{
+    background-color: #7A918D;
+    text-align: center; 
+    font-size: 150%;
+    padding : 2%; 
+}
+
+
+
+.nav-link.active{
+    background-color : #FEB95F !important; 
+    color : #7A918D !important; 
+
+}
+
+.nav-link{
+    color : #FEB95F !important; 
+}
+
+.logo{
+    width:15%; 
+   padding: 0;  
+}
+
+body{
+    background-color: #93B1A7;
+}
+>>>>>>> Stashed changes

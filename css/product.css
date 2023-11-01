@@ -1,0 +1,21 @@
+header{
+    background-color: #7A918D;
+    text-align: center; 
+    font-size: 150%;
+    padding : 2%; 
+}
+
+.nav-link.active{
+    background-color : #FEB95F !important; 
+    color : #7A918D !important; 
+
+}
+
+.nav-link{
+    color : #FEB95F !important; 
+}
+
+.logo{
+    width:15%; 
+   padding: 0;  
+}
