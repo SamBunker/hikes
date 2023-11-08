@@ -8,10 +8,15 @@ footer {
 
 header{
     background-color: #7A918D;
-    text-align: center; 
-    font-size: 150%;
+    font-size: 200%;
     padding : 2%; 
+    font-family: 'League Gothic';
 }
+
+
+.navbar-brand{
+    width : 15%;
+} 
 
 .nav-link.active{
     background-color : #FEB95F !important; 
@@ -24,8 +29,10 @@ header{
 }
 
 .logo{
-    width:15%; 
+    width:100%; 
    padding: 0;  
+ 
+   cursor: pointer; 
 }
 
 
