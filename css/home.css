@@ -11,6 +11,7 @@ header{
     font-size: 200%;
     padding : 2%; 
     font-family: 'League Gothic';
+    z-index: 3;
 }
 
 
@@ -35,17 +36,10 @@ header{
    cursor: pointer; 
 }
 
-
-
-
-
 .contact-info a {
     color: #393E41;
     text-decoration: none;
 }
-
-
-
 
 @media (max-width: 768px) {
     .contact-info {
@@ -53,12 +47,38 @@ header{
     }
 }
 
-
-
 body{
     background-color: #93B1A7;
     margin : 0; 
-
-
-
 }
+
+.position-relative {
+    z-index: -1;
+    transform: translateY(-20%);
+}
+
+img {
+    max-width: 100%;
+    max-height: auto;
+    background-size: cover;
+    z-index: -1;
+}
+
+.position-absolute {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    /* display: flex; */
+}
+
+.container {
+    padding: 0;
+    margin: 0;
+}
+
