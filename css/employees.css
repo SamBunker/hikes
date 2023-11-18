@@ -3,20 +3,19 @@
 }
 
 h1 {
-    padding-bottom: 25px;
+    padding: 25px 0 25px 0;
 }
 
-.row {
+/* .row {
     padding-bottom: 50px;
-}
+} */
 
 .square {
     width: 80%;
     height: 25%;
-    /* margin: 10px; */
-    /* border: 1px solid #ccc; */
-    text-align: left;
+    text-align: center;
     font-size: 1.2em;
+    padding-bottom: 50px;
   }
 
 .square img {
