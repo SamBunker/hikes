@@ -1,0 +1,18 @@
+h1 {
+    padding: 25px 0 25px 0;
+}
+
+.question {
+    margin-bottom: 25px;
+    padding: 10px;
+    border-style: solid;
+}
+
+.title {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.text {
+    font-size: 1.1em;
+}
