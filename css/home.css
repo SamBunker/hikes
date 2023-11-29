@@ -78,7 +78,64 @@ img {
 }
 
 .container {
-    padding: 0;
+    padding: 2em 0 2em 0;
     margin: 0;
 }
 
+.h-img {
+    border-radius: 0px 30px 0px 30px;
+}
+
+.title {
+    position: relative;
+    font-size: 4.2em;
+    top: 40%;
+    transform: translateY(-50%);
+}
+
+.body-text {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+span {
+    font-style: italic;
+    color: purple;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.b-img {
+    transform: scale(75%);
+    transition: 0.25s ease-in-out;
+}
+
+.b-img:hover {
+    transform: scale(100%);
+}
+
+.read-more {
+    border-radius: 15px;
+    color: black;
+    border: none;
+    background: orange;
+    padding: 0.5em;
+    transition: 0.25s ease-in-out;
+}
+
+.read-more:hover {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.scrollAnimation {
+    animation: scrollAni infinite 3s;
+}
+
+@keyframes scrollAni {
+    from {
+        transform: rotate(30%);
+    }
+    to {
+        transform: rotate(-30%);
+    }
+}
