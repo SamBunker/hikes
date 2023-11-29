@@ -105,14 +105,14 @@ span {
     font-family: 'Times New Roman', Times, serif;
 }
 
-.b-img {
+/* .b-img {
     transform: scale(75%);
     transition: 0.25s ease-in-out;
 }
 
 .b-img:hover {
     transform: scale(100%);
-}
+} */
 
 .read-more {
     border-radius: 15px;
@@ -138,4 +138,10 @@ span {
     to {
         transform: rotate(-30%);
     }
+}
+
+.bg-orange {
+    width: 100%;
+    height: auto;
+    background: orange;
 }
