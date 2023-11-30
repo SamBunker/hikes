@@ -1,0 +1,52 @@
+Contact Us Information
+info@hickesinc.com
+814-669-4160
+
+Employee Page:
+	
+-> CEO, 
+
+Projects:
+Photos of projects and a brief description of the projects
+
+Certifications:
+WBE and Small Business Certification Images
+
+FAQ:
+Residential or not?
+	Code Updates?
+-> Make a text file separated by character or spacing to then add FAQs to the site. Then string split the text file and for each chunk of text create an FAQ.
+
+Sustainability Page:
+Some projects that Hickes has done and people can see
+"Most of what they do is driven by (DEP & EPA regulations), then say "Hickes" has to go into a sewege treatment plant and reduce the amount of nitrogen that goes into the water." Following the guidelines, hard to say specifically.
+
+Safety Page:
+OCEA regulations - Susi is handeling the safety and has OCEA courses
+2008 OCEA violations, nothing that's right now.
+
+OCEA Safety program
+
+Header / Nav:
+Redo some of these colors, a little bit of clashing
+
+Photos are WIP, usually don't have any pictures of the final product so make sure we specify.
+
+LOGO:
+The crane, something a little more 
+"Signafied more of what we do, excavator with a bucket..? Waste water treatment"
+Something nailed down that we want to keep for a long time.
+
+HAI, hickes associates incorporated scaffolding at a downward angle for their previous logo
+
+Timeframe to be finished up and coming to an end (December 15th)
+
+Picture of a crane - Hanging off the mass? Hang the HAI off the MAS
+Boom - Hook "Water droplet with the HAI"
+^ or Boon
+
+Color Pallete:
+Magnetic Signs on the trucks are all green and white
+Brighter Green
+
+Contact about colors for the project - Green and White and maybe Black
