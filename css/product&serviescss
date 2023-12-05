@@ -1,1 +1,115 @@
 
+
+footer {
+    background-color: #324F40;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+
+header{
+    background-color: #324F40;
+    font-size: 200%;
+    padding : 2%; 
+    font-family: 'League Gothic';
+    z-index: 3;
+}
+
+
+.navbar-brand{
+    width : 15%;
+} 
+
+.nav-link.active{
+    background-color : white!important; 
+    color : #324F40 !important; 
+
+}
+
+.nav-link{
+    color : white !important; 
+}
+.logo{
+    width:100%; 
+   padding: 0;  
+ 
+   cursor: pointer; 
+}
+
+.contact-info a {
+    color: white;
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    .contact-info {
+        font-size: 16px;
+    }
+}
+
+body{
+    background-color: #93B1A7;
+    margin : 0; 
+}
+
+.position-relative {
+    z-index: -1;
+    transform: translateY(-20%);
+}
+
+img {
+    max-width: 100%;
+    max-height: auto;
+    background-size: cover;
+    z-index: -1;
+}
+
+.position-absolute {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    /* display: flex; */
+}
+
+.container {
+    padding: 0;
+    margin: 0;
+}
+
+
+#info{
+    font-size: 17px;
+}
+
+#hickes{
+    width: 40%;
+    height: 40%;
+    float: right;
+    padding-top: 14%;
+}
+
+h1{
+    font-family: 'League Gothic';
+    padding: 2%;
+    
+}
+
+
+
+
+#thumbs{
+    width: 10%;
+    height: 10%;
+}
+
+
+#list{
+    font-size: 15px;
+}
