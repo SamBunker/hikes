@@ -32,6 +32,13 @@ body{
     margin : 0; 
 }
 
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
 .position-relative {
     z-index: -1;
     transform: translateY(-20%);
