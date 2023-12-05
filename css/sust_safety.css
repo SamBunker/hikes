@@ -27,9 +27,16 @@ header{
    cursor: pointer; 
 }
 body{
-    /*background-color: #93B1A7 ;*/
+    background-color: #93B1A7;
     font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+    margin : 0; 
 }
+
+.position-relative {
+    z-index: -1;
+    transform: translateY(-20%);
+}
+
 
 footer {
     background-color: #324F40;
