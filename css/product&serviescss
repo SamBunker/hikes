@@ -94,6 +94,7 @@ img {
     height: 40%;
     float: right;
     padding-top: 14%;
+    border-radius: 40%;
 }
 
 h1{
