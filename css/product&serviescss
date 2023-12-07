@@ -134,6 +134,7 @@ h1{
 
 #TServies{
     font-size: 60px;
+    margin-left: 5%;
 }
 
 #list{
