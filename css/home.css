@@ -116,9 +116,9 @@ span {
 
 .read-more {
     border-radius: 15px;
-    color: black;
+    color: white;
     border: none;
-    background: orange;
+    background: #324f40;
     padding: 0.5em;
     transition: 0.25s ease-in-out;
 }
@@ -144,4 +144,23 @@ span {
     width: 100%;
     height: auto;
     background: orange;
+}
+
+.ps-card {
+    padding-top: 2em;
+    justify-content: center;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+}
+
+.ps-card > a > img {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    max-height: 155px;
+    max-width: 200px;
+    @media screen and (max-width: 600px) {
+        padding: 0px 0px 3em 0;
+    }
 }
