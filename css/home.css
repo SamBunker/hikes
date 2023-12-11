@@ -164,3 +164,31 @@ span {
         padding: 0px 0px 3em 0;
     }
 }
+
+.ps-card2 {
+    padding-top: 2em;
+    justify-content: center;
+    text-align: center;
+    /* width: 250px; */
+    height: 250px;
+}
+.ps-card2 > a > img {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    max-height: 300px;
+    max-width: 400px;
+    @media screen and (max-width: 600px) {
+        padding: 0px 0px 3em 0;
+    }
+}
+
+figcaption{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.b-img{
+    margin-bottom: 0;
+}
+
+
