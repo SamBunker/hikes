@@ -1,14 +1,16 @@
 header{
     background-color: #324F40;
     font-size: 200%;
-    padding : 2%; 
+    padding : 0; 
     font-family: 'League Gothic';
 }
 
 
 .navbar-brand{
-    width : 15%;
-} 
+    width : 17%;
+    padding-left: 3%;
+}
+ 
 
 .nav-link.active{
     background-color : white!important; 

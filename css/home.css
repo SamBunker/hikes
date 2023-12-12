@@ -9,15 +9,18 @@ footer {
 header{
     background-color: #324F40;
     font-size: 200%;
-    padding : 2%; 
+    padding : 0; 
     font-family: 'League Gothic';
     z-index: 3;
 }
 
 
 .navbar-brand{
-    width : 15%;
-} 
+    width : 17%;
+    padding-left: 3%;
+}
+
+
 
 .nav-link.active{
     background-color : white !important; 
@@ -30,7 +33,7 @@ header{
 }
 
 .logo{
-    width:100%; 
+    width:150%; 
    padding: 0;  
  
    cursor: pointer; 
@@ -186,6 +189,8 @@ span {
 figcaption{
     text-align: center;
     margin-bottom: 5px;
+    color: #324F40;
+    font-weight : bold;
 }
 .b-img{
     margin-bottom: 0;
