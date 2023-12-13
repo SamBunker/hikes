@@ -23,6 +23,14 @@ header{
     padding-left: 3%;
 }
 
+.navbar-brand > img {
+    width: 50%;
+    height: auto;
+    background: white;
+    border-radius: 10px;
+}
+
+
 
 .nav-link.active{
     background-color : white!important; 

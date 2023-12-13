@@ -22,6 +22,14 @@ header{
     width : 15%;
 } 
 
+.navbar-brand > img {
+    width: 50%;
+    height: auto;
+    background: white;
+    border-radius: 10px;
+}
+
+
 .nav-link.active{
     background-color : white!important; 
     color : #324F40 !important; 

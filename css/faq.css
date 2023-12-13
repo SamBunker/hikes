@@ -16,3 +16,10 @@ h1 {
 .text {
     font-size: 1.1em;
 }
+
+.navbar-brand > img {
+    width: 50%;
+    height: auto;
+    background: white;
+    border-radius: 10px;
+}
