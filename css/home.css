@@ -28,22 +28,39 @@ header{
 }
 
 .cert-box {
-    background: black;
-    width: 150px;
-    height: 150px;
+   /* background: black;*/
+    width: 375px;
+    height: 325px;
     margin-right: 10px;
-    margin-top: 1.5em;
+    margin-top: 3em;
     position: relative;
 }
 
+.cert-box2 {
+    /* background: black;*/
+     width: 425px;
+     height: 425px;
+    
+     margin-top: 3em;
+     position: relative;
+ }
+
 .cert-box > img {
-    width: 150px;
-    height: 150px;
+    width: 375px;
+    height: 325px;
+    position: relative;
+    top: 0;
+    left: 0;
+    
+}
+
+.cert-box2 > img {
+    width: 425px;
+    height: 325px;
     position: relative;
     top: 0;
     left: 0;
 }
-
 
 
 .nav-link.active{
