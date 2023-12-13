@@ -1,10 +1,5 @@
 
-footer { 
-    background-color: #324F40;
-    color: white;
-    padding: 15px;
-    text-align: center;
-}
+/*Navbar*/
 
 header{
     background-color: #324F40;
@@ -27,6 +22,24 @@ header{
     border-radius: 10px;
 }
 
+.nav-link.active{
+    background-color : white !important; 
+    color : #324F40 !important; 
+
+}
+
+.nav-link{
+    color : white !important; 
+}
+
+.logo{
+    width:150%; 
+   padding: 0;  
+ 
+   cursor: pointer; 
+}
+
+/*Certifications*/
 .cert-box {
    /* background: black;*/
     width: 375px;
@@ -63,27 +76,21 @@ header{
 }
 
 
-.nav-link.active{
-    background-color : white !important; 
-    color : #324F40 !important; 
-
+/*Footer*/
+footer { 
+    background-color: #324F40;
+    color: white;
+    padding: 15px;
+    text-align: center;
 }
 
-.nav-link{
-    color : white !important; 
-}
-
-.logo{
-    width:150%; 
-   padding: 0;  
- 
-   cursor: pointer; 
-}
 
 .contact-info a {
     color: white;
     text-decoration: none;
 }
+
+/*body*/
 
 @media (max-width: 768px) {
     .contact-info {

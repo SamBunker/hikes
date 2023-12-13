@@ -1,3 +1,4 @@
+/*Navbar*/
 header{
     background-color: #324F40;
     font-size: 200%;
@@ -40,12 +41,9 @@ header{
 
 
 
-.position-relative {
-    z-index: -1;
-    transform: translateY(-20%);
-}
 
 
+/*Footer*/
 footer {
     background-color: #324F40;
     color: white;
@@ -56,7 +54,7 @@ footer {
     color: white;
     text-decoration: none;
 }
-
+/*text*/
 .indent1{
     text-indent: 40px;
     margin-top: 100px;

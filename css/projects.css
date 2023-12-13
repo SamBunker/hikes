@@ -1,4 +1,4 @@
-
+/*Carousel*/
 .carousel-container{
     display: flex;
   align-items: center;
@@ -10,12 +10,7 @@
     margin-left : 1%; 
 }
 
-.navbar-toggler-icon{
 
-    flex-direction: column;
-    color:white !important;
-    border-radius: 5px;
-}
 
 /* .carousel-item{
     height: 30%;
@@ -32,10 +27,7 @@
   align-items: center;
 }
 
-h1{
-    padding-top:20px ; 
-    font-family: 'League Gothic';
-}
+
 
 /*background of the header*/
 header{
@@ -46,7 +38,7 @@ header{
 
 }
 
-
+/*Navbar*/
 .navbar-brand{
     width : 17%;
     padding-left: 3%;
@@ -59,7 +51,12 @@ header{
     border-radius: 10px;
 }
 
+.navbar-toggler-icon{
 
+    flex-direction: column;
+    color:white !important;
+    border-radius: 5px;
+}
 
 .nav-link.active{
     background-color : white !important; 
@@ -78,12 +75,20 @@ header{
    cursor: pointer; 
 }
 
+/*Body*/
+h1{
+    margin-left: 1;
+    color : #324F40; 
+    padding-top:20px ; 
+    font-family: 'League Gothic';
+}
 body{
     /*background-color: #93B1A7 ;*/
     font-family: Verdana, Geneva, Tahoma, sans-serif !important;
     
 }
 
+/*Footer*/
 footer {
     background-color: #324F40;
     color: white;
@@ -95,9 +100,6 @@ footer {
     text-decoration: none;
 }
 
-h1{
-    margin-left: 1;
-    color : #324F40; 
-}
+
 
 
